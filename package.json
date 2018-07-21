@@ -9,6 +9,10 @@
   "author": "Varun Gupta",
   "license": "ISC",
   "dependencies": {
-    "npm": "^6.2.0"
+    "bencode": "^2.0.0",
+    "buffer": "^5.1.0",
+    "dgram": "^1.0.1",
+    "npm": "^6.2.0",
+    "url": "^0.11.0"
   }
 }
